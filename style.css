@@ -17,7 +17,7 @@
     display: flex;
     font-size: 24px;
     margin-top: 40px;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
     text-align: left;
   }   
   .header-name {
@@ -27,11 +27,12 @@
       margin-top: 90px;
       margin-bottom: 90px;
       margin-left: -275px;
+      font-size: 17px;
   }
 aside {
     border-right: 2px solid grey;
     display: inline-block;
-    height: 700px;
+    height: 1050px;
     width: 210px;
     font-size: 16px;
 }
@@ -41,13 +42,13 @@ aside {
     padding-left: 20px;    
     text-align: left;
     margin-bottom: 40px;
-    margin-top: -700px;
+    margin-top: -1050px;
 }
 .footer-box {  
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   align-items: center;
 }
 .line li {
